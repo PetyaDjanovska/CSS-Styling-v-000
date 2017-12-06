@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps')
 
+/*Type selectors*/
 p {
   font-size: 1em;
   line-height: 1.5em;
@@ -14,3 +15,5 @@ figcaption {
   color: #777;
   text-align: right;
 }
+
+/*Class selectors*/
